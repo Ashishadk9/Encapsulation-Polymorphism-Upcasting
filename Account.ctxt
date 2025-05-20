@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Account
+comment0.text=\n\ Write\ a\ description\ of\ class\ Account\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=accountNumber\ initialBalance
+comment1.target=Account(java.lang.String,\ double)
+comment2.params=
+comment2.target=double\ getBalance()
+comment3.params=balance
+comment3.target=void\ setBalance(double)
+comment4.params=
+comment4.target=java.lang.String\ getAccountNumber()
+comment5.params=accountNumber
+comment5.target=void\ setAccountNumber(java.lang.String)
+comment6.params=
+comment6.target=double\ calculateInterest()
+numComments=7
